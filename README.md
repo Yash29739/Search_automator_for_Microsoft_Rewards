@@ -42,6 +42,8 @@ MICROSOFT_REWARDS_SEARCH_AUTOMATION/
 3. Enter the number of searches you want (max 50) and click **Start**.
 
 4. Let it run. To stop early, click **Stop**.
+5. if your using Chrome then use the below code (instead of the edge url) in background.js 
+   const url = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
 
 ---
 
