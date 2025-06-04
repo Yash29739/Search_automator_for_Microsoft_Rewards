@@ -53,4 +53,4 @@ This extension is intended for educational and personal productivity use only. U
 
 ## 🛠️ Author
 
-Created by [Your Name or Handle]
+Created by **B M Yashwanth**
